@@ -1,0 +1,12 @@
+[data-page="index"] .page-content{
+  background: url("../img/welcome2b.gif") no-repeat;
+  background-position: 0 -48px;
+  width: 320px;
+  height: 480px;
+  background-size: cover;
+  padding-top: 234px;
+}
+[data-page="index"] .button {
+  height: 42px;
+  line-height: 42px;
+}
