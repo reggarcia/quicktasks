@@ -6,6 +6,9 @@
   padding-top: 234px;
 
 }
+[data-page="index"] .navbar {
+	opacity: 0;
+}
 [data-page="index"] .button {
   height: 42px;
   line-height: 42px;
